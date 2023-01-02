@@ -1,0 +1,5 @@
+# ignore .jpeg files
+*.jpeg
+
+# ignore secrets directory
+secrets/
