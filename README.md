@@ -44,7 +44,7 @@ Once you see this output, you're good to continue!
 
 ### A3: `.gitignore`
 
-1. Create a folder called secrets in your repository. Create a file in this folder called `secret` that contains your deepest darkest secret (like what you had for lunch yesterday)
+1. Create a folder called `secrets` in your repository. Create a file in this folder called `secret` that contains your deepest darkest secret (like what you had for lunch yesterday)
 2. Save [this image](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.framerated.co.uk%2Ffrwpcontent%2Fuploads%2F2020%2F02%2Fbettercallsaul507_01.jpg&f=1&nofb=1&ipt=921d402872fd79317cfe9a7bcee5253244e174d8301e25a4a9b5a175b6e59076&ipo=images) as `jimmy.jpeg` in the repo's root folder.
 3. Using `git status`, you should see indications of the new folder and files you added under untracked files. Once you do, continue to the next step.
 4. Create a file called `.gitignore`. Your challenge is to add entries to this gitignore to achieve the following goals:
@@ -115,4 +115,4 @@ HINT: you will need to use `git pull origin main` from within the `evilcheems` b
 
 ### D2: Practice whole workflow
 
-Using the Git workflow we just taught you (including branching, committing, pushing, pull requests, and pulling), practice a full cycle of making a change of your choice to this repository. Examples of changes you could make include adding a song2.txt, adding images, or stylizing existing files. Go crazy!
+Using the Git workflow we just taught you (including branching, committing, pushing, pull requests, and pulling), practice a full cycle of making a change of your choice to your fork. Examples of changes you could make include adding a song2.txt, adding images, or stylizing existing files. Go crazy!
