@@ -1,6 +1,6 @@
 # Learn-Git
 
-Exercises for learning how to use git. This is part of Tech Start UCalgary's git tutorial. You can see our slides here: <https://docs.google.com/presentation/d/1VirWHkI8QHIFB2E71R-vqGcnvhAHgFaG7yQ2FHZ677w/edit?usp=sharing>
+Exercises for learning how to use git. This is part of Tech Start UCalgary's git tutorial. You can see our slides [here](<https://docs.google.com/presentation/d/1VirWHkI8QHIFB2E71R-vqGcnvhAHgFaG7yQ2FHZ677w/edit?usp=sharing>)
 
 Need more detailed documentation? Check out the [Tech Start Git Guide](https://docs.techstartucalgary.com/guides/Git_Guide/index.html)
 
@@ -11,6 +11,8 @@ Need more detailed documentation? Check out the [Tech Start Git Guide](https://d
 ### A1: Setting up
 
 Pre-requisites: you have installed Git on your computer, and you have a GitHub account
+
+   To install Git, follow [this guide](https://github.com/git-guides/install-git)
 
 1. Fork the repository. This will create a new copy of the repository in your own GitHub account. To do this, follow these instructions.
    1. Go to [the repository](https://github.com/techstartucalgary/Learn-Git)
